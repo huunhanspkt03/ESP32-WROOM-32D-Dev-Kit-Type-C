@@ -8,7 +8,8 @@ It is designed to be compact, breadboard-friendly, and optimized for SMT assembl
 - Auto bootloader
 
 Below is the 3D image of the circuit
-<img src="image/3DPCB.png" width="400">
+
+![ESP32 Board](image/3DPCB.png)
 
 # Assembly 
 
